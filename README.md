@@ -10,10 +10,10 @@
   
   <br>
   <br>
-  <p>Projeto de Cadastro de Clientes utilizando Java Spring Boot e Angular</p>
+  <p>Projeto de Cadastro de Clientes para fins de estudo utilizando Java Spring Boot e Angular</p>
   <br>
   <div align="justify">
-  <h3>Tópicos abordados:</h3>
+  <h3>Tópicos Realizados:</h3>
   
    + Criação de API em Spring Boot contendo os métodos: GET, POST, PUT e DELETE;
    + Criação de uma estrutura front-end em Angular para consumir a API.
